@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on: **Learning Game Development**
+- 🔭 I’m currently working on: **Game Development**
 - 🌱 I’m learning: **React libraries, typescript, c++**
 - 💬 Ask me about: **React, Node.js, MongoDB, or anything tech!**
 - 📫 How to reach me: **gishuks14@gmail.com**
