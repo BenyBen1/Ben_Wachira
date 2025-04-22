@@ -77,12 +77,4 @@
 
 ---
 
-### 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=BenyBen1&theme=tokyo-night" />
-</p>
-
----
-
 *Made by BenyBen1*
