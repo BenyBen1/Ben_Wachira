@@ -12,11 +12,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on: **[Your current project]**
+- 🔭 I’m currently working on: **Learning Game Development**
 - 🌱 I’m learning: **React libraries, typescript, c++**
 - 💬 Ask me about: **React, Node.js, MongoDB, or anything tech!**
 - 📫 How to reach me: **gishuks14@gmail.com**
-- ⚡ Fun fact: **[Something cool about you]**
+- ⚡ Fun fact: **I like games**
 
 ---
 
@@ -73,8 +73,7 @@
 
 ### ⚡ Fun Projects
 
-- 🛍️ [ShopCrawl](https://github.com/BenyBen1/shopcrawl) – Smart shopping assistant powered by real-time product comparisons
-- 📱 [Your Other App](https://github.com/BenyBen1/your-other-app) – Description of another cool thing you've built
+- Check my Repos: https://github.com/BenyBen1?tab=repositories
 
 ---
 
