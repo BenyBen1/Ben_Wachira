@@ -86,4 +86,4 @@
 
 ---
 
-*Made with 💙 by BenyBen1*
+*Made by BenyBen1*
